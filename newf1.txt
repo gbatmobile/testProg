@@ -1,3 +1,5 @@
 TEste de novo arquivo
 
-Esse é o teste 2
+Esse é o teste 2.
+
+Eu vou mudar o arquivo.
